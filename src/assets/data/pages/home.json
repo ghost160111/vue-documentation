@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "image-link": "ico.svg",
+      "label": "Наличный и безналичный расчет"
+    },
+    {
+      "image-link": "ico2.svg",
+      "label": "Техническая помощь и консультация"
+    },
+    {
+      "image-link": "ico3.svg",
+      "label": "Только качественная и проверенная продукция",
+      "arrow": "Union.svg"
+    },
+    {
+      "image-link": "ico4.svg",
+      "label": "Мы всегда на связи с 9:00 до 18:00!",
+      "arrow": "Union.svg"
+    }
+  ]
+}
