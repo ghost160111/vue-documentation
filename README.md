@@ -1,2 +1,3 @@
-# vue-documentation
-Vue.js documentation
+# Vue.js - documentation
+
+> This is Vue.js documentation, it will cover basically everything in depth about Vue.js and its fundamental plugins and extensions like VueRouter, Vite and so on...
